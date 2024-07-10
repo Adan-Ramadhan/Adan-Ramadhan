@@ -18,11 +18,11 @@ I Like using React Js and simple design component
 
 ## 📊 GitHub Stats:
 <div style="display: flex">
-  <img style="width: 14rem; height: auto; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adan-Ramadhan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=10" alt="top languages" />
-  <img style="width: 14rem; height: auto; display: inline-block;" src="https://github-contributor-stats.vercel.app/api?username=Adan-Ramadhan&limit=5&theme=react&combine_all_yearly_contributions=true" alt="top contribution" />
+  <img style="width: 17rem; height: auto; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adan-Ramadhan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=10" alt="top languages" />
+  <img style="width: 17rem; height: auto; display: inline-block;" src="https://github-contributor-stats.vercel.app/api?username=Adan-Ramadhan&limit=5&theme=react&combine_all_yearly_contributions=true" alt="top contribution" />
   <br/>
-  <img style="width: 14rem; height: auto; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=Adan-Ramadhan&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="github stats" />
-  <img style="width: 14rem; height: auto; display: inline-block;" src="https://github-readme-streak-stats.herokuapp.com/?user=Adan-Ramadhan&theme=react&hide_border=true" alt="commit stats" />
+  <img style="width: 17rem; height: auto; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=Adan-Ramadhan&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="github stats" />
+  <img style="width: 17rem; height: auto; display: inline-block;" src="https://github-readme-streak-stats.herokuapp.com/?user=Adan-Ramadhan&theme=react&hide_border=true" alt="commit stats" />
 </div>
 
 
