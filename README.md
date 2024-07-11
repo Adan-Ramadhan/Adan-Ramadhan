@@ -7,7 +7,7 @@ I'm a Front End Developer from Indonesia 🇮🇩
 I Like using React Js and simple design component.<br/>
 I am open to working together on independent projects and company or client projects, fell free to contact me:)
 
-![JavaScript](https://img.shields.io/badge/instagram-%23323330.svg?style=flat-square&logo=instagram&logoColor=%23F7DF1E)
+![Instagram](https://img.shields.io/badge/instagram-%23323330.svg?style=flat-square&logo=instagram&logoColor=%white)
 
 
 [![](https://img.shields.io/badge/profile-Adan-Ramadhan-blue)](https://github.com/Adan-Ramadhan/)
