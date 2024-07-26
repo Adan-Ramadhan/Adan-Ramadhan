@@ -14,7 +14,6 @@ I am open to working together on independent projects and company or client proj
 ## 💻 Tech Stacks:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
 ![React.js](https://img.shields.io/badge/react.js-%23404d59.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/wordpress-%23323330.svg?style=flat-square&logo=wordpress&logoColor=%white)
 
