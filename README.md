@@ -5,7 +5,7 @@ Hi everyone,
 I'm a Front End Developer from Indonesia 🇮🇩
 
 I like build responsive UI using React Js.<br/>
-Currenly I'm learning React Js.<br/> 
+Currenly I'm learning Express JS.<br/> 
 I am open to working together on independent projects and company or client projects, fell free to contact me:)
 
 [![](https://img.shields.io/badge/profile-Adan-Ramadhan-blue)](https://github.com/Adan-Ramadhan/)
