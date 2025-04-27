@@ -2,8 +2,8 @@
 ## 🙋‍♂️ About Me:
 Hi everyone,
 <br/>
-I'm a Front End Developer from Indonesia 🇮🇩
-
+I'm a Web Developer from Indonesia 🇮🇩
+Currently learn Full Stack Web 
 I like build responsive UI using React Js.<br/> 
 I am open to working together on independent projects and company or client projects, fell free to contact me:)
 
