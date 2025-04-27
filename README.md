@@ -2,7 +2,7 @@
 ## 🙋‍♂️ About Me:
 Hi everyone,
 <br/>
-I'm a Web Developer from Indonesia 🇮🇩
+I'm a Web Developer from Indonesia 🇮🇩<br/>
 Currently learn Full Stack Web <br/>
 
 I like build responsive UI using React Js.<br/> 
